@@ -1,2 +1,2 @@
 # gjadijawo.github.io
-Tor on Chromebook
+A guide on how to run Tor on a Chromebook
